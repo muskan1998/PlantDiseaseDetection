@@ -1,4 +1,4 @@
-## Plant disease detction using image processing
+## Plant disease detction using image processing in OpenCV and SVM Classifier
 
 The proposed framework can be used to identify diseased leaves.
 Automatic detection of diseasesed plants is an important research topic since it is able to automatically detect the diseasesed plants from the symptoms that appear on the plant leaves.
